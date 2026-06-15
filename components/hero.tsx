@@ -78,7 +78,7 @@ export function Hero() {
         </div>
 
         <div className="relative">
-          <div className="overflow-hidden rounded-[2rem] bg-card shadow-xl ring-1 ring-black/5">
+          <div className="overflow-hidden rounded-[2rem] bg-white shadow-xl ring-1 ring-black/5">
             <Image
               src="/images/hero-kids.png"
               alt="Children playing and learning together at Gen Zee Kids Pre School"
@@ -103,7 +103,7 @@ export function Hero() {
             </span>
           </div>
 
-          <div className="absolute -left-2 bottom-6 flex items-center gap-2 rounded-2xl bg-card px-4 py-3 shadow-lg ring-1 ring-black/5 sm:left-4">
+            <div className="absolute -right-2 top-6 flex items-center gap-2 rounded-2xl bg-white px-4 py-3">
             <span className="grid size-9 place-items-center rounded-full bg-brand-green text-white">
               <Heart className="size-5 fill-current" />
             </span>
