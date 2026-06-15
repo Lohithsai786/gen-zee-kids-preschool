@@ -12,7 +12,9 @@ import { SiteFooter } from '@/components/site-footer'
 
 export default function Page() {
   return (
-    <div className="min-h-screen bg-background">
+    <div
+  className="min-h-screen"
+  style={{ backgroundColor: "#FFF8EE" }}>
       <Navbar />
       <main>
         <Hero />
