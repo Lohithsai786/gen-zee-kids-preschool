@@ -70,7 +70,7 @@ const programs: Program[] = [
 
 export function Programs() {
   return (
-    <section id="programs" className="scroll-mt-24 bg-brand-blue/5 py-16 lg:py-20">
+    <section id="programs" className="scroll-mt-24 bg-brand-orange/5 py-16 lg:py-20">
       <div className="mx-auto max-w-7xl px-4 sm:px-6">
         <div className="mx-auto max-w-2xl text-center">
           <span className="inline-flex rounded-full bg-brand-blue/15 px-4 py-1.5 text-sm font-extrabold tracking-wide text-brand-blue">

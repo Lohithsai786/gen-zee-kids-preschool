@@ -9,7 +9,7 @@ const steps = [
 
 export function LearningJourney() {
   return (
-    <section className="bg-brand-blue/5 py-16 lg:py-20">
+    <section className="bg-brand-orange/5 py-16 lg:py-20">
       <div className="mx-auto max-w-4xl px-4 text-center sm:px-6">
         <span className="inline-flex rounded-full bg-brand-blue/15 px-4 py-1.5 text-sm font-extrabold tracking-wide text-brand-blue">
           LEARNING JOURNEY

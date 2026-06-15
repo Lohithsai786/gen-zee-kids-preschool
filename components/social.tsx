@@ -3,7 +3,7 @@ import { site } from '@/lib/site'
 
 export function Social() {
   return (
-    <section className="bg-brand-blue/5 py-14">
+    <section className="bg-brand-orange/5 py-14">
       <div className="mx-auto max-w-3xl px-4 text-center sm:px-6">
         <p className="text-lg font-semibold text-foreground/80">
           See our daily adventures, events and happy moments on social media.
